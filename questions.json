@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "category": "Anatomy and Physiology",
+    "question": "What is the basic structural unit of the human body?",
+    "options": [
+      "Organ",
+      "Cell",
+      "System",
+      "Tissue"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "category": "Anatomy and Physiology",
+    "question": "Which organelle produces most cellular ATP?",
+    "options": [
+      "Nucleus",
+      "Mitochondrion",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "category": "Anatomy and Physiology",
+    "question": "Which tissue covers external body surfaces?",
+    "options": [
+      "Nervous tissue",
+      "Connective tissue",
+      "Epithelial tissue",
+      "Muscle tissue"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "category": "Anatomy and Physiology",
+    "question": "What does the term homeostasis describe?",
+    "options": [
+      "Rapid cell division",
+      "Maintenance of stable internal conditions",
+      "Digestion of proteins",
+      "Muscle contraction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "category": "Anatomy and Physiology",
+    "question": "Which system transports oxygen and nutrients?",
+    "options": [
+      "Integumentary system",
+      "Skeletal system",
+      "Endocrine system",
+      "Cardiovascular system"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "category": "Anatomy and Physiology",
+    "question": "Which part of the nervous system includes the brain and spinal cord?",
+    "options": [
+      "Autonomic nervous system",
+      "Peripheral nerves only",
+      "Somatic receptors",
+      "Central nervous system"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "category": "Anatomy and Physiology",
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      "Digest fats",
+      "Transport oxygen",
+      "Clot blood",
+      "Produce antibodies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "category": "Anatomy and Physiology",
+    "question": "Which blood cells are primarily involved in immune defense?",
+    "options": [
+      "Erythrocytes only",
+      "Platelets",
+      "Red blood cells",
+      "White blood cells"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "category": "Anatomy and Physiology",
+    "question": "Which protein is primarily responsible for muscle contraction with myosin?",
+    "options": [
+      "Keratin",
+      "Elastin",
+      "Melanin",
+      "Actin"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10,
+    "category": "Anatomy and Physiology",
+    "question": "What connects muscle to bone?",
+    "options": [
+      "Fascia only",
+      "Cartilage",
+      "Tendon",
+      "Ligament"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "category": "Anatomy and Physiology",
+    "question": "What connects bone to bone?",
+    "options": [
+      "Nerve",
+      "Sebaceous duct",
+      "Tendon",
+      "Ligament"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "category": "Anatomy and Physiology",
+    "question": "What is the largest organ of the body?",
+    "options": [
+      "Liver",
+      "Lung",
+      "Skin",
+      "Heart"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "category": "Anatomy and Physiology",
+    "question": "Which gland helps regulate metabolic rate?",
+    "options": [
+      "Salivary gland",
+      "Sweat gland",
+      "Sebaceous gland",
+      "Thyroid gland"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "category": "Anatomy and Physiology",
+    "question": "Which organ filters blood to produce urine?",
+    "options": [
+      "Kidney",
+      "Pancreas",
+      "Stomach",
+      "Spleen"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "category": "Anatomy and Physiology",
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries only",
+      "Lymph vessels"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "category": "Anatomy and Physiology",
+    "question": "Where does most gas exchange occur in the lungs?",
+    "options": [
+      "Bronchi",
+      "Pleura",
+      "Alveoli",
+      "Trachea"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "category": "Anatomy and Physiology",
+    "question": "Which cells transmit electrical impulses?",
+    "options": [
+      "Keratinocytes",
+      "Adipocytes",
+      "Neurons",
+      "Fibroblasts"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "category": "Anatomy and Physiology",
+    "question": "What is the normal direction of lymph flow?",
+    "options": [
+      "Into arteries directly",
+      "Toward the venous circulation",
+      "Away from lymph nodes only",
+      "From veins to skin surface"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "category": "Anatomy and Physiology",
+    "question": "Which mineral is especially important for bone structure?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Iodine",
+      "Iron"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "category": "Skin Structure and Function",
+    "question": "Which epidermal layer is the deepest?",
+    "options": [
+      "Stratum lucidum",
+      "Stratum corneum",
+      "Stratum granulosum",
+      "Stratum basale"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 21,
+    "category": "Skin Structure and Function",
+    "question": "Which cells produce melanin?",
+    "options": [
+      "Melanocytes",
+      "Langerhans cells",
+      "Corneocytes",
+      "Fibroblasts"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "category": "Skin Structure and Function",
+    "question": "Where are collagen and elastin primarily located?",
+    "options": [
+      "Nail plate",
+      "Hair shaft",
+      "Dermis",
+      "Stratum corneum"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "category": "Skin Structure and Function",
+    "question": "What is the principal protective outermost layer of skin?",
+    "options": [
+      "Stratum basale",
+      "Hypodermis",
+      "Stratum corneum",
+      "Papillary dermis"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "category": "Skin Structure and Function",
+    "question": "What is sebum produced by?",
+    "options": [
+      "Lymph nodes",
+      "Eccrine glands",
+      "Apocrine glands",
+      "Sebaceous glands"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 25,
+    "category": "Skin Structure and Function",
+    "question": "Which skin structure is most directly involved in evaporative cooling?",
+    "options": [
+      "Eccrine sweat gland",
+      "Hair matrix",
+      "Arrector pili only",
+      "Sebaceous gland"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 26,
+    "category": "Skin Structure and Function",
+    "question": "Which skin protein provides mechanical strength in the epidermis?",
+    "options": [
+      "Keratin",
+      "Myosin",
+      "Albumin",
+      "Hemoglobin"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "category": "Skin Structure and Function",
+    "question": "Which dermal cells make collagen?",
+    "options": [
+      "Mast cells only",
+      "Melanocytes",
+      "Fibroblasts",
+      "Corneocytes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "category": "Skin Structure and Function",
+    "question": "Which skin layer contains most subcutaneous fat?",
+    "options": [
+      "Hypodermis",
+      "Stratum lucidum",
+      "Epidermis",
+      "Basement membrane"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "category": "Skin Structure and Function",
+    "question": "Which structure anchors the epidermis to the dermis?",
+    "options": [
+      "Hair cuticle",
+      "Sebaceous duct",
+      "Nail lunula",
+      "Basement membrane zone"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 30,
+    "category": "Skin Structure and Function",
+    "question": "What is the acid mantle?",
+    "options": [
+      "A sweat gland",
+      "A fat layer",
+      "A slightly acidic surface film",
+      "An alkaline dermal layer"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "category": "Skin Structure and Function",
+    "question": "What does TEWL stand for?",
+    "options": [
+      "Transepidermal water loss",
+      "Tissue elastin water limit",
+      "Transdermal electrolyte wash",
+      "Total epidermal wax level"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "category": "Skin Structure and Function",
+    "question": "What is the key role of ceramides in skin?",
+    "options": [
+      "Control muscle tone",
+      "Transport oxygen",
+      "Create melanin",
+      "Support barrier lipids"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 33,
+    "category": "Skin Structure and Function",
+    "question": "What primarily determines the visible color of a tan?",
+    "options": [
+      "Reduced blood volume",
+      "Increased melanin",
+      "Increased collagen",
+      "Increased sweat"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "category": "Skin Structure and Function",
+    "question": "Which skin cell functions in immune surveillance?",
+    "options": [
+      "Adipocyte",
+      "Melanocyte",
+      "Langerhans cell",
+      "Corneocyte only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 35,
+    "category": "Skin Structure and Function",
+    "question": "What is the primary role of skin sensory receptors?",
+    "options": [
+      "Move lymph",
+      "Synthesize sebum",
+      "Detect stimuli such as pressure and temperature",
+      "Produce hormones only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 36,
+    "category": "Skin Structure and Function",
+    "question": "What produces goosebumps?",
+    "options": [
+      "Collagen synthesis",
+      "Melanin oxidation",
+      "Expansion of sweat pores",
+      "Contraction of arrector pili muscles"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 37,
+    "category": "Skin Structure and Function",
+    "question": "Where are epidermal cells continually renewed?",
+    "options": [
+      "Hypodermis",
+      "Reticular dermis",
+      "Stratum basale",
+      "Stratum corneum"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 38,
+    "category": "Skin Structure and Function",
+    "question": "What is the primary function of the skin barrier?",
+    "options": [
+      "Control heart rhythm",
+      "Circulate blood throughout body",
+      "Digest protein",
+      "Limit water loss and entry of irritants"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 39,
+    "category": "Skin Types and Conditions",
+    "question": "Which skin type usually has increased sebum and visible shine?",
+    "options": [
+      "Oily skin",
+      "Normal skin",
+      "Dehydrated skin only",
+      "Dry skin"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "category": "Skin Types and Conditions",
+    "question": "What best describes dehydrated skin?",
+    "options": [
+      "Skin lacking water",
+      "Skin with increased melanin",
+      "Skin always lacking oil",
+      "Skin with no follicles"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "category": "Skin Types and Conditions",
+    "question": "What does comedone refer to?",
+    "options": [
+      "Plugged hair follicle",
+      "Dilated blood vessel",
+      "An enlarged lymph node",
+      "A scar type"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "category": "Skin Types and Conditions",
+    "question": "Which lesion is a closed comedone?",
+    "options": [
+      "Papule only",
+      "Wheal",
+      "Whitehead",
+      "Pustule"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "category": "Skin Types and Conditions",
+    "question": "Which condition commonly includes persistent facial redness and flushing?",
+    "options": [
+      "Rosacea",
+      "Vitiligo",
+      "Alopecia areata",
+      "Tinea pedis"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "category": "Skin Types and Conditions",
+    "question": "What is hyperpigmentation?",
+    "options": [
+      "Decreased epidermal turnover only",
+      "Loss of all sweat glands",
+      "Scar contraction",
+      "Darkening due to increased pigment"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 45,
+    "category": "Skin Types and Conditions",
+    "question": "What is the term for complete loss of pigment in patches?",
+    "options": [
+      "Solar lentigo",
+      "Milia",
+      "Melasma",
+      "Vitiligo"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 46,
+    "category": "Skin Types and Conditions",
+    "question": "Which skin change is typical of photoaging?",
+    "options": [
+      "Sudden increased bone density",
+      "Permanent muscle paralysis",
+      "Fine lines and uneven pigmentation",
+      "Complete loss of pores"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "category": "Skin Types and Conditions",
+    "question": "What is milia?",
+    "options": [
+      "Small keratin-filled cysts",
+      "Enlarged veins",
+      "Open wounds",
+      "Fungal nail disease"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "category": "Skin Types and Conditions",
+    "question": "Which lesion contains visible pus?",
+    "options": [
+      "Scale",
+      "Macule",
+      "Fissure",
+      "Pustule"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 49,
+    "category": "Skin Types and Conditions",
+    "question": "What is a macule?",
+    "options": [
+      "Flat area of altered skin color",
+      "Deep skin crack",
+      "Raised solid bump",
+      "Fluid-filled blister"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "category": "Skin Types and Conditions",
+    "question": "What is a vesicle?",
+    "options": [
+      "Flat pigmented spot",
+      "Large solid nodule",
+      "Small fluid-filled blister",
+      "Scaly patch"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 51,
+    "category": "Skin Types and Conditions",
+    "question": "What is a wheal?",
+    "options": [
+      "Permanent scar",
+      "Pigment-free hair",
+      "Nail thickening",
+      "Transient raised swollen area"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 52,
+    "category": "Skin Types and Conditions",
+    "question": "Which feature makes a mole suspicious for referral?",
+    "options": [
+      "Stable uniform color",
+      "Small unchanged size",
+      "Even border for years",
+      "Rapid change in size or color"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 53,
+    "category": "Skin Types and Conditions",
+    "question": "What does SPF primarily measure?",
+    "options": [
+      "Vitamin D production",
+      "Total UVA blockage",
+      "Moisturizer content",
+      "Protection against UVB-related sunburn"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 54,
+    "category": "Skin Types and Conditions",
+    "question": "Which UV rays penetrate glass more readily?",
+    "options": [
+      "UVB",
+      "All equally",
+      "UVA",
+      "UVC"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 55,
+    "category": "Skin Types and Conditions",
+    "question": "What is the common trigger of irritant contact dermatitis?",
+    "options": [
+      "Repeated exposure to irritating substances",
+      "Only inherited pigment loss",
+      "Insulin release",
+      "Excess calcium"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "category": "Skin Types and Conditions",
+    "question": "What is the appropriate approach to an unexplained changing lesion?",
+    "options": [
+      "Apply a strong peel",
+      "Refer to a medical professional",
+      "Cover with makeup and ignore",
+      "Perform extraction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "category": "Skin Types and Conditions",
+    "question": "Which condition features silvery scales on well-defined plaques?",
+    "options": [
+      "Vitiligo",
+      "Milia",
+      "Psoriasis",
+      "Urticaria"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "category": "Facial Treatments",
+    "question": "What is the first professional step before a new facial?",
+    "options": [
+      "Mask application",
+      "Consultation and contraindication check",
+      "Extractions",
+      "Deep exfoliation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "category": "Facial Treatments",
+    "question": "Why perform patch testing when indicated?",
+    "options": [
+      "To remove blackheads",
+      "To check potential product sensitivity",
+      "To measure blood pressure",
+      "To determine eye color"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "category": "Facial Treatments",
+    "question": "What is the main purpose of cleansing?",
+    "options": [
+      "Increase melanin",
+      "Permanently reduce sebaceous glands",
+      "Remove surface debris and cosmetics",
+      "Replace sunscreen"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 61,
+    "category": "Facial Treatments",
+    "question": "What is the role of a toner in a modern facial?",
+    "options": [
+      "Replace cleansing",
+      "Always change skin pH to alkaline",
+      "Sterilize skin completely",
+      "Refresh or deliver compatible skin-care ingredients"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 62,
+    "category": "Facial Treatments",
+    "question": "Which sequence is most suitable for a basic facial?",
+    "options": [
+      "Extract, sunscreen, cleanse, mask, massage",
+      "Protect, exfoliate, cleanse, analyze, mask",
+      "Cleanse, analyze, treat, moisturize, protect",
+      "Massage, makeup, cleanse, steam, protect"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "category": "Facial Treatments",
+    "question": "Why might hot steam be avoided for a rosacea-prone client?",
+    "options": [
+      "It always removes pigment",
+      "Heat can aggravate flushing",
+      "It blocks blood flow",
+      "It increases bone density"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "category": "Facial Treatments",
+    "question": "What is the main aim of facial massage?",
+    "options": [
+      "Permanently eliminate wrinkles",
+      "Cure bacterial infections",
+      "Remove suspicious moles",
+      "Promote comfort and temporary circulation effects"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 65,
+    "category": "Facial Treatments",
+    "question": "Which massage movement is light gliding?",
+    "options": [
+      "Friction only",
+      "Tapotement",
+      "Petrissage",
+      "Effleurage"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 66,
+    "category": "Facial Treatments",
+    "question": "Which massage movement involves kneading?",
+    "options": [
+      "Vibration",
+      "Effleurage",
+      "Petrissage",
+      "Compression bandaging"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 67,
+    "category": "Facial Treatments",
+    "question": "What is tapotement?",
+    "options": [
+      "Static holding only",
+      "Rhythmic percussion movements",
+      "Skin pinching for extraction",
+      "Slow gliding strokes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "category": "Facial Treatments",
+    "question": "What should you do if a product causes burning during a facial?",
+    "options": [
+      "Leave it to work longer",
+      "Increase heat",
+      "Remove it promptly and assess the skin",
+      "Apply another acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 69,
+    "category": "Facial Treatments",
+    "question": "Which mask type typically absorbs surface oil?",
+    "options": [
+      "Oil cleanser",
+      "Clay mask",
+      "Occlusive paraffin mask",
+      "Sheet mask only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "category": "Facial Treatments",
+    "question": "Which type of skincare product is applied last in a daytime facial?",
+    "options": [
+      "Toner",
+      "Exfoliating scrub",
+      "Broad-spectrum sunscreen",
+      "Cleanser"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 71,
+    "category": "Facial Treatments",
+    "question": "What is the safest response to inflamed acne pustules?",
+    "options": [
+      "Use unsterilized lancets",
+      "Apply hot wax",
+      "Squeeze deeply",
+      "Avoid forceful extraction"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 72,
+    "category": "Facial Treatments",
+    "question": "What is the goal of a moisturizer?",
+    "options": [
+      "Permanently shrink pores",
+      "Support hydration and barrier function",
+      "Increase UV exposure",
+      "Replace the epidermis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "category": "Facial Treatments",
+    "question": "When should treatment notes be completed?",
+    "options": [
+      "Only if a complaint occurs",
+      "At the end of the year",
+      "At the time of or promptly after treatment",
+      "Never"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 74,
+    "category": "Facial Treatments",
+    "question": "What should guide selection of facial products?",
+    "options": [
+      "Highest fragrance content",
+      "Skin assessment and client needs",
+      "Brand popularity alone",
+      "Packaging color only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "category": "Facial Treatments",
+    "question": "Why avoid over-exfoliation?",
+    "options": [
+      "It removes all bacteria permanently",
+      "It increases bone mass",
+      "It closes lymph ducts",
+      "It can damage the skin barrier"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 76,
+    "category": "Facial Treatments",
+    "question": "What is the correct approach to client discomfort?",
+    "options": [
+      "Skip documentation",
+      "Increase pressure automatically",
+      "Stop or adapt treatment and communicate",
+      "Ignore unless severe"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 77,
+    "category": "Facial Electrical Equipment",
+    "question": "What is the primary action of galvanic current?",
+    "options": [
+      "Mechanical suction only",
+      "Continuous direct electrical current",
+      "Ultrasound waves",
+      "Infrared light only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "category": "Facial Electrical Equipment",
+    "question": "Which galvanic procedure uses current to aid softening of sebum?",
+    "options": [
+      "Iontophoresis only",
+      "Desincrustation",
+      "High-frequency sparking",
+      "Microdermabrasion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "category": "Facial Electrical Equipment",
+    "question": "What does iontophoresis use?",
+    "options": [
+      "Electrical current to assist movement of suitable ions",
+      "Radioactive particles",
+      "Laser ablation",
+      "Mechanical scraping"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "category": "Facial Electrical Equipment",
+    "question": "Which electrode is associated with a traditional high-frequency glass wand?",
+    "options": [
+      "Ultrasonic blade",
+      "Metal roller only",
+      "Gas-filled glass electrode",
+      "Cotton swab"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 81,
+    "category": "Facial Electrical Equipment",
+    "question": "What is a common contraindication to many electrical facial treatments?",
+    "options": [
+      "Mild oiliness",
+      "Normal healthy skin",
+      "Non-sensitive skin",
+      "Implanted pacemaker"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 82,
+    "category": "Facial Electrical Equipment",
+    "question": "What should be checked before using electrical equipment?",
+    "options": [
+      "Hair length",
+      "Room paint color",
+      "Client's favorite fragrance only",
+      "Contraindications and equipment condition"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 83,
+    "category": "Facial Electrical Equipment",
+    "question": "What does microcurrent aim to stimulate?",
+    "options": [
+      "Skin sterilization",
+      "Permanent muscle removal",
+      "Low-level electrical stimulation of tissues",
+      "Deep laser resurfacing"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 84,
+    "category": "Facial Electrical Equipment",
+    "question": "Which device uses controlled vacuum suction?",
+    "options": [
+      "Galvanic probe",
+      "Wood's lamp",
+      "Vacuum facial machine",
+      "LED panel"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 85,
+    "category": "Facial Electrical Equipment",
+    "question": "What is the main concern with excessive facial suction?",
+    "options": [
+      "Bruising or capillary damage",
+      "Increased hair pigment",
+      "Bone loss",
+      "Permanent eye-color change"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "category": "Facial Electrical Equipment",
+    "question": "Which modality uses sound waves above audible range?",
+    "options": [
+      "Steam",
+      "Galvanic",
+      "High-frequency current",
+      "Ultrasound"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 87,
+    "category": "Facial Electrical Equipment",
+    "question": "What is the primary function of a Wood's lamp?",
+    "options": [
+      "Assist visual skin examination under UV light",
+      "Measure heart rate",
+      "Permanently remove hair",
+      "Deliver deep heat"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "category": "Facial Electrical Equipment",
+    "question": "Which modality employs different visible wavelengths of light?",
+    "options": [
+      "Galvanic desincrustation",
+      "Manual extraction",
+      "LED phototherapy",
+      "Vacuum suction"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 89,
+    "category": "Facial Electrical Equipment",
+    "question": "What is essential when selecting LED therapy?",
+    "options": [
+      "Direct exposure to unprotected eyes",
+      "Appropriate indication and eye protection as required",
+      "Maximum intensity for all clients",
+      "No consultation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "category": "Facial Electrical Equipment",
+    "question": "What is a safe policy for electrical equipment near water?",
+    "options": [
+      "Immerse plugs to clean them",
+      "Keep devices and connections dry",
+      "Use damaged cables",
+      "Ignore grounding"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "category": "Facial Electrical Equipment",
+    "question": "What is an electrode?",
+    "options": [
+      "A cleansing brush",
+      "A skin pigment",
+      "A conductor through which current enters or leaves",
+      "A mask ingredient"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "category": "Facial Electrical Equipment",
+    "question": "What is the first step if an electrical device malfunctions?",
+    "options": [
+      "Stop treatment and disconnect safely",
+      "Continue at lower price",
+      "Increase power",
+      "Cover the warning light"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "category": "Facial Electrical Equipment",
+    "question": "Why does treatment intensity need individual adjustment?",
+    "options": [
+      "Tolerance and treatment requirements differ",
+      "Intensity has no effect",
+      "It depends only on client age",
+      "All clients require maximum output"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "category": "Facial Electrical Equipment",
+    "question": "What should therapists consult for device contraindications?",
+    "options": [
+      "Product advertisements only",
+      "Social media comments only",
+      "Manufacturer instructions and training",
+      "Client guesses only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "category": "Facial Electrical Equipment",
+    "question": "What does an ultrasonic spatula commonly aid?",
+    "options": [
+      "Permanent hair removal",
+      "Surgical suturing",
+      "Surface exfoliation and cleansing",
+      "Bone realignment"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 96,
+    "category": "Hair and Scalp",
+    "question": "Which structure produces the hair shaft?",
+    "options": [
+      "Hair matrix in the follicle",
+      "Sweat pore",
+      "Sebaceous duct alone",
+      "Dermal collagen outside follicle"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "category": "Hair and Scalp",
+    "question": "What is the active hair growth phase?",
+    "options": [
+      "Exogen only",
+      "Catagen",
+      "Anagen",
+      "Telogen"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 98,
+    "category": "Hair and Scalp",
+    "question": "What is the transitional hair phase?",
+    "options": [
+      "Telogen",
+      "Catagen",
+      "Anagen",
+      "Metagen"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 99,
+    "category": "Hair and Scalp",
+    "question": "What is the resting hair phase?",
+    "options": [
+      "Catagen",
+      "Telogen",
+      "Anagen",
+      "Mitogen"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "category": "Hair and Scalp",
+    "question": "Which protein forms most of the hair shaft?",
+    "options": [
+      "Albumin",
+      "Keratin",
+      "Collagen",
+      "Elastin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 101,
+    "category": "Hair and Scalp",
+    "question": "Which hair layer contains most pigment granules?",
+    "options": [
+      "Cuticle",
+      "Medulla only",
+      "Cortex",
+      "Outer root sheath"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 102,
+    "category": "Hair and Scalp",
+    "question": "Which structure protects the outside of the hair shaft?",
+    "options": [
+      "Bulb",
+      "Papilla only",
+      "Cuticle",
+      "Cortex"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 103,
+    "category": "Hair and Scalp",
+    "question": "What is androgenetic alopecia?",
+    "options": [
+      "A contagious fungus",
+      "A bacterial abscess",
+      "Sudden scar from burns",
+      "Patterned hair loss influenced by genes and hormones"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 104,
+    "category": "Hair and Scalp",
+    "question": "What is alopecia areata commonly associated with?",
+    "options": [
+      "Normal seasonal sweating",
+      "High calcium intake",
+      "Excessive shampoo only",
+      "Autoimmune processes"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 105,
+    "category": "Hair and Scalp",
+    "question": "What typically characterizes telogen effluvium?",
+    "options": [
+      "Diffuse increased shedding after a trigger",
+      "Permanent follicle destruction in all cases",
+      "Always a fungal infection",
+      "Only round scars"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "category": "Hair and Scalp",
+    "question": "Which pattern can result from repeated tight hairstyles?",
+    "options": [
+      "Psoriasis",
+      "Alopecia totalis only",
+      "Traction alopecia",
+      "Vitiligo"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 107,
+    "category": "Hair and Scalp",
+    "question": "What is hirsutism?",
+    "options": [
+      "Normal scalp shedding",
+      "Patchy pigment loss",
+      "Nail splitting",
+      "Excess terminal hair in androgen-dependent areas in women"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 108,
+    "category": "Hair and Scalp",
+    "question": "Which part of the hair follicle supplies nourishment to growing hair?",
+    "options": [
+      "Hair tip",
+      "Cuticle",
+      "Pore opening only",
+      "Dermal papilla"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 109,
+    "category": "Hair and Scalp",
+    "question": "What determines natural hair color primarily?",
+    "options": [
+      "Blood type",
+      "Sweat gland number",
+      "Nail thickness",
+      "Amount and type of melanin"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 110,
+    "category": "Hair and Scalp",
+    "question": "What is an appropriate response to sudden unexplained hair loss?",
+    "options": [
+      "Recommend medical assessment",
+      "Promise regrowth with massage",
+      "Prescribe medication",
+      "Apply depilatory cream"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "category": "Hair and Scalp",
+    "question": "What is dandruff commonly associated with?",
+    "options": [
+      "Muscle fatigue",
+      "Loss of nail plate",
+      "Scalp flaking",
+      "Body fluid retention"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 112,
+    "category": "Hair and Scalp",
+    "question": "Which gland lubricates the scalp and hair?",
+    "options": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Sebaceous gland",
+      "Eccrine gland only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 113,
+    "category": "Hair and Scalp",
+    "question": "What is the term for split hair ends?",
+    "options": [
+      "Onycholysis",
+      "Erythema",
+      "Hyperkeratosis",
+      "Trichoptilosis"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 114,
+    "category": "Hair and Scalp",
+    "question": "How should a therapist approach suspected scalp infection?",
+    "options": [
+      "Defer relevant treatment and recommend assessment",
+      "Share combs",
+      "Massage vigorously",
+      "Cover without telling client"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 115,
+    "category": "Hair Removal",
+    "question": "What is depilation?",
+    "options": [
+      "Removal of hair at or near skin surface",
+      "Removal of skin pigment",
+      "Permanent destruction of follicles",
+      "Removal of nails"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 116,
+    "category": "Hair Removal",
+    "question": "What is epilation?",
+    "options": [
+      "Shampooing",
+      "Removal of hair from the root",
+      "Skin peeling only",
+      "Removal of surface oil"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 117,
+    "category": "Hair Removal",
+    "question": "Which method removes hair from the root temporarily?",
+    "options": [
+      "Trimming",
+      "Waxing",
+      "Depilatory cream",
+      "Shaving"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 118,
+    "category": "Hair Removal",
+    "question": "In which direction is strip wax generally removed?",
+    "options": [
+      "Straight upward slowly",
+      "Always with hair growth",
+      "Without holding skin taut",
+      "Against hair growth while supporting the skin"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 119,
+    "category": "Hair Removal",
+    "question": "What should be checked before waxing?",
+    "options": [
+      "Only hair color",
+      "Client shoe size",
+      "Makeup brand",
+      "Contraindications and skin integrity"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 120,
+    "category": "Hair Removal",
+    "question": "Why should waxing be avoided on sunburned skin?",
+    "options": [
+      "Sunburn increases hair growth",
+      "Wax becomes magnetic",
+      "Hair follicles are absent",
+      "Skin is damaged and vulnerable"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 121,
+    "category": "Hair Removal",
+    "question": "What is a common risk of waxing?",
+    "options": [
+      "Bone fracture as expected",
+      "Eye color change",
+      "Permanent immunity loss",
+      "Skin lifting or irritation"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 122,
+    "category": "Hair Removal",
+    "question": "Which hair growth phase is typically targeted for effective laser hair reduction?",
+    "options": [
+      "No phase matters",
+      "Telogen only",
+      "Catagen only",
+      "Anagen"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 123,
+    "category": "Hair Removal",
+    "question": "What pigment absorbs energy in many hair-removal lasers?",
+    "options": [
+      "Melanin",
+      "Keratin only",
+      "Sebum",
+      "Hemoglobin only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 124,
+    "category": "Hair Removal",
+    "question": "What is a crucial laser/IPL safety measure?",
+    "options": [
+      "Using identical settings on everyone",
+      "Appropriate protective eyewear",
+      "Skipping patch tests always",
+      "Direct eye exposure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 125,
+    "category": "Hair Removal",
+    "question": "Which treatment uses a fine probe and electrical current at the follicle?",
+    "options": [
+      "Threading",
+      "Sugaring",
+      "Shaving",
+      "Electrolysis"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 126,
+    "category": "Hair Removal",
+    "question": "What is a major advantage of threading?",
+    "options": [
+      "Reduction of pigmentation always",
+      "Treatment of fungal infection",
+      "Precise temporary removal of facial hair",
+      "Permanent removal in one session"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 127,
+    "category": "Hair Removal",
+    "question": "What does a depilatory cream do?",
+    "options": [
+      "Chemically breaks down hair near skin surface",
+      "Stimulates collagen",
+      "Closes pores permanently",
+      "Extracts follicles with forceps"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 128,
+    "category": "Hair Removal",
+    "question": "Which medication history is especially relevant before facial waxing?",
+    "options": [
+      "Topical retinoid use",
+      "Occasional water intake",
+      "Vitamin C in food",
+      "Calcium-rich meals"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 129,
+    "category": "Hair Removal",
+    "question": "What is folliculitis?",
+    "options": [
+      "A pigment-free patch",
+      "A lymphatic blockage",
+      "A nail disorder",
+      "Inflammation of a hair follicle"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 130,
+    "category": "Hair Removal",
+    "question": "How should wax applicators be handled to reduce contamination?",
+    "options": [
+      "Leave in open containers",
+      "Share between clients",
+      "Rinse in wax pot",
+      "Do not double-dip used applicators"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 131,
+    "category": "Hair Removal",
+    "question": "Why perform a skin patch test before a chemical depilatory when indicated?",
+    "options": [
+      "Check for sensitivity",
+      "Measure hormone level",
+      "Determine hair cycle exactly",
+      "Sterilize the site"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 132,
+    "category": "Hair Removal",
+    "question": "What direction should the skin be held during strip wax removal?",
+    "options": [
+      "Upward without support",
+      "Loose and folded",
+      "Taut and supported",
+      "Only toward the face"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 133,
+    "category": "Hair Removal",
+    "question": "What should be advised after waxing?",
+    "options": [
+      "Exfoliate harshly immediately",
+      "Pick at follicles",
+      "Avoid heat and friction for the recommended period",
+      "Use hot sauna at once"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 134,
+    "category": "Nails and Manicure",
+    "question": "What is the hard visible part of the nail called?",
+    "options": [
+      "Nail matrix",
+      "Nail plate",
+      "Eponychium",
+      "Nail bed"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 135,
+    "category": "Nails and Manicure",
+    "question": "Where are new nail cells produced?",
+    "options": [
+      "Free edge",
+      "Hyponychium only",
+      "Nail plate surface",
+      "Nail matrix"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 136,
+    "category": "Nails and Manicure",
+    "question": "What is the tissue directly beneath the nail plate?",
+    "options": [
+      "Cuticle only",
+      "Lunula",
+      "Dermis of palm",
+      "Nail bed"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 137,
+    "category": "Nails and Manicure",
+    "question": "What is the white crescent near some nail bases?",
+    "options": [
+      "Lunula",
+      "Hyponychium",
+      "Free edge",
+      "Nail fold"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 138,
+    "category": "Nails and Manicure",
+    "question": "What seals the space between nail plate and proximal skin?",
+    "options": [
+      "Cuticle",
+      "Nail tip",
+      "Lateral groove",
+      "Matrix cell"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 139,
+    "category": "Nails and Manicure",
+    "question": "What is onycholysis?",
+    "options": [
+      "Separation of nail plate from nail bed",
+      "Excess sweating",
+      "Skin redness",
+      "Inflammation of a hair follicle"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 140,
+    "category": "Nails and Manicure",
+    "question": "What is onychomycosis?",
+    "options": [
+      "Broken capillaries",
+      "Normal nail growth",
+      "Increased skin oil",
+      "Fungal infection of the nail"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 141,
+    "category": "Nails and Manicure",
+    "question": "What is paronychia?",
+    "options": [
+      "Hair shaft breakage",
+      "Excess facial hair",
+      "Inflammation around the nail fold",
+      "Pigment loss of skin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 142,
+    "category": "Nails and Manicure",
+    "question": "What is a safe action for a suspected nail infection?",
+    "options": [
+      "Cut into inflamed skin",
+      "Share files",
+      "Cover with acrylic immediately",
+      "Avoid cosmetic treatment and refer appropriately"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 143,
+    "category": "Nails and Manicure",
+    "question": "Why should metal manicure tools be disinfected after cleaning?",
+    "options": [
+      "Make polish dry quicker",
+      "Reduce transmission of microorganisms",
+      "Thicken the nail plate",
+      "Change nail color"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 144,
+    "category": "Nails and Manicure",
+    "question": "What is the purpose of a base coat?",
+    "options": [
+      "Sterilize tools",
+      "Treat fungal infection",
+      "Remove cuticles",
+      "Improve polish adherence and protect from staining"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 145,
+    "category": "Nails and Manicure",
+    "question": "Why is filing back and forth aggressively undesirable?",
+    "options": [
+      "It increases nail growth speed",
+      "It strengthens all nails",
+      "It removes fungus",
+      "It can contribute to splitting and damage"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 146,
+    "category": "Nails and Manicure",
+    "question": "What is the free edge of the nail?",
+    "options": [
+      "Nail root under skin",
+      "Part extending beyond the fingertip",
+      "Nail bed",
+      "Lunula"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 147,
+    "category": "Nails and Manicure",
+    "question": "What does a nail buffer mainly do?",
+    "options": [
+      "Treat bacterial infection",
+      "Remove the matrix",
+      "Smooth the nail surface",
+      "Alter finger bones"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 148,
+    "category": "Nails and Manicure",
+    "question": "What is a common cause of brittle nails?",
+    "options": [
+      "Repeated wetting and drying or chemical exposure",
+      "Increased muscle tone",
+      "Normal lymph flow",
+      "High melanin production"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 149,
+    "category": "Nails and Manicure",
+    "question": "When should a manicure be postponed?",
+    "options": [
+      "When there is an active contagious nail condition",
+      "When hands are clean",
+      "When polish is absent",
+      "When nails are short"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 150,
+    "category": "Nails and Manicure",
+    "question": "What is a key risk of cutting living cuticle tissue?",
+    "options": [
+      "Permanent improvement in immunity",
+      "Hair growth",
+      "Extra nail matrix creation",
+      "Infection or injury"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 151,
+    "category": "Nails and Manicure",
+    "question": "What are hangnails?",
+    "options": [
+      "Small torn pieces of skin near nail folds",
+      "Blood vessels",
+      "Hair roots",
+      "Nail polish streaks"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 152,
+    "category": "Nails and Manicure",
+    "question": "What is the purpose of a top coat?",
+    "options": [
+      "Remove infection",
+      "Protect polish and improve finish",
+      "Replace hand hygiene",
+      "Grow nails instantly"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 153,
+    "category": "Makeup and Color Theory",
+    "question": "Which colors are primary in traditional pigment color theory?",
+    "options": [
+      "Green, orange and purple",
+      "Red, yellow and blue",
+      "Pink, brown and beige",
+      "Black, white and gray"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 154,
+    "category": "Makeup and Color Theory",
+    "question": "Which colors are complementary to each other on a color wheel?",
+    "options": [
+      "Adjacent colors",
+      "All neutrals",
+      "Opposite colors",
+      "All pastel colors"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 155,
+    "category": "Makeup and Color Theory",
+    "question": "What color corrector can help neutralize visible redness?",
+    "options": [
+      "Orange",
+      "Purple",
+      "Red",
+      "Green"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 156,
+    "category": "Makeup and Color Theory",
+    "question": "What color corrector is often used for blue-toned under-eye discoloration?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow-green only",
+      "Peach or orange"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 157,
+    "category": "Makeup and Color Theory",
+    "question": "What is the main role of primer?",
+    "options": [
+      "Treat infections",
+      "Sterilize brushes",
+      "Replace all cleansing",
+      "Prepare skin for makeup application"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 158,
+    "category": "Makeup and Color Theory",
+    "question": "Which product is used to even skin tone over the face?",
+    "options": [
+      "Eyebrow gel",
+      "Lip liner",
+      "Mascara",
+      "Foundation"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 159,
+    "category": "Makeup and Color Theory",
+    "question": "What is concealer commonly used for?",
+    "options": [
+      "Darkening lashes only",
+      "Targeted coverage of discoloration",
+      "Removing makeup",
+      "Cleaning tools"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 160,
+    "category": "Makeup and Color Theory",
+    "question": "What is the primary function of setting powder?",
+    "options": [
+      "Increase UV radiation",
+      "Remove sebum glands",
+      "Grow hair",
+      "Reduce shine and help set cream products"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 161,
+    "category": "Makeup and Color Theory",
+    "question": "What is contouring intended to create visually?",
+    "options": [
+      "Deeper scars",
+      "Reduced blood circulation",
+      "Shadows and dimension",
+      "Permanent structural change"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 162,
+    "category": "Makeup and Color Theory",
+    "question": "Where is blush usually applied?",
+    "options": [
+      "Eyelashes only",
+      "Nail matrix",
+      "Cheeks",
+      "Neck veins"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 163,
+    "category": "Makeup and Color Theory",
+    "question": "Why is makeup brush cleaning important?",
+    "options": [
+      "Reduce buildup and microbial contamination",
+      "Alter pigment chemistry permanently",
+      "Increase lash growth",
+      "Make products waterproof"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 164,
+    "category": "Makeup and Color Theory",
+    "question": "What is the purpose of a disposable mascara wand?",
+    "options": [
+      "Reduce cross-contamination",
+      "Replace patch testing",
+      "Improve oxygen supply",
+      "Remove makeup stains"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 165,
+    "category": "Makeup and Color Theory",
+    "question": "What should be done with makeup used on a client with suspected infectious conjunctivitis?",
+    "options": [
+      "Apply more mascara",
+      "Use the same applicator",
+      "Avoid eye makeup treatment and refer appropriately",
+      "Share eyeliner"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 166,
+    "category": "Makeup and Color Theory",
+    "question": "Which product defines the lip border?",
+    "options": [
+      "Mascara",
+      "Brow powder",
+      "Foundation brush",
+      "Lip liner"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 167,
+    "category": "Makeup and Color Theory",
+    "question": "Why test foundation color along the jawline?",
+    "options": [
+      "Assess acne bacteria",
+      "Measure skin elasticity",
+      "Determine blood group",
+      "Check blending with face and neck"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 168,
+    "category": "Makeup and Color Theory",
+    "question": "Which light is generally best for checking makeup color accuracy?",
+    "options": [
+      "Neutral daylight-like lighting",
+      "Complete darkness",
+      "Strong colored nightclub lighting",
+      "Only ultraviolet light"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 169,
+    "category": "Makeup and Color Theory",
+    "question": "What does undertone describe?",
+    "options": [
+      "Skin oil concentration",
+      "Underlying warm, cool, or neutral hue",
+      "Blood pressure",
+      "Hair porosity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 170,
+    "category": "Makeup and Color Theory",
+    "question": "Which color combination generally produces purple in traditional paint mixing?",
+    "options": [
+      "Black and white",
+      "Orange and yellow",
+      "Red and blue",
+      "Yellow and green"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 171,
+    "category": "Makeup and Color Theory",
+    "question": "What is a sensible approach for mature skin makeup?",
+    "options": [
+      "Avoid moisturizer for all",
+      "Use textures and application suited to skin condition",
+      "Always use heavy powder layers",
+      "Use one color for everyone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 172,
+    "category": "Body Massage",
+    "question": "What is effleurage?",
+    "options": [
+      "Joint manipulation",
+      "Deep skin scraping",
+      "Rhythmic percussion only",
+      "Smooth gliding strokes"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 173,
+    "category": "Body Massage",
+    "question": "What is petrissage?",
+    "options": [
+      "Static heat application",
+      "Light tapping only",
+      "Hair removal",
+      "Kneading and lifting soft tissues"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 174,
+    "category": "Body Massage",
+    "question": "What is friction massage?",
+    "options": [
+      "Passive stretching only",
+      "Wax removal",
+      "Surface cleansing",
+      "Small focused rubbing movements"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 175,
+    "category": "Body Massage",
+    "question": "Which massage technique uses repeated tapping or hacking movements?",
+    "options": [
+      "Lymph drainage only",
+      "Petrissage",
+      "Effleurage",
+      "Tapotement"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 176,
+    "category": "Body Massage",
+    "question": "What should be checked before a massage?",
+    "options": [
+      "Shoe size",
+      "Only preferred music",
+      "Eye color",
+      "Health history and contraindications"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 177,
+    "category": "Body Massage",
+    "question": "Which condition is a reason to avoid massage over an area?",
+    "options": [
+      "Normal skin",
+      "Acute inflammation or infection",
+      "Mild dry skin",
+      "Normal muscle tone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 178,
+    "category": "Body Massage",
+    "question": "Why should suspected deep vein thrombosis trigger urgent referral?",
+    "options": [
+      "Massage cures the clot",
+      "It is always harmless",
+      "It only affects nails",
+      "Massage may be unsafe and medical assessment is needed"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 179,
+    "category": "Body Massage",
+    "question": "What is the usual direction of many classic massage strokes on limbs?",
+    "options": [
+      "Always across joints with force",
+      "Always toward fingers only",
+      "Generally toward the heart for return strokes",
+      "No direction ever matters"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 180,
+    "category": "Body Massage",
+    "question": "What is a potential immediate effect of relaxation massage?",
+    "options": [
+      "Bone lengthening",
+      "Reduced perceived tension",
+      "Elimination of all scars",
+      "Permanent curing of chronic disease"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 181,
+    "category": "Body Massage",
+    "question": "Why use massage lubricant?",
+    "options": [
+      "Sterilize hands",
+      "Reduce excessive friction on skin",
+      "Remove infection",
+      "Generate melanin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 182,
+    "category": "Body Massage",
+    "question": "What does client draping protect?",
+    "options": [
+      "Heart rate only",
+      "Hair density",
+      "Equipment temperature",
+      "Privacy and comfort"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 183,
+    "category": "Body Massage",
+    "question": "What is a common contraindication to massage over open wounds?",
+    "options": [
+      "Risk of tissue damage and contamination",
+      "Increased melanin",
+      "Improved circulation only",
+      "No concern"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 184,
+    "category": "Body Massage",
+    "question": "What should a therapist do when a client reports sharp pain?",
+    "options": [
+      "Stop and reassess immediately",
+      "Ignore discomfort",
+      "Increase pressure",
+      "Continue until time ends"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 185,
+    "category": "Body Massage",
+    "question": "Which movement may be used to finish a relaxing massage?",
+    "options": [
+      "Gentle effleurage",
+      "Unannounced joint thrust",
+      "Forceful scraping",
+      "Abrupt deep percussion"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 186,
+    "category": "Body Massage",
+    "question": "Which system carries lymph fluid?",
+    "options": [
+      "Respiratory bronchi",
+      "Digestive system",
+      "Skeletal system",
+      "Lymphatic system"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 187,
+    "category": "Body Massage",
+    "question": "What is an appropriate massage pressure principle?",
+    "options": [
+      "Always use maximum pressure",
+      "Ignore health history",
+      "Apply same pressure everywhere",
+      "Adjust pressure to tissue and client feedback"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 188,
+    "category": "Body Massage",
+    "question": "Why should pressure be modified over bony prominences?",
+    "options": [
+      "They contain no nerves",
+      "It accelerates hair growth",
+      "Less soft tissue cushions the area",
+      "Bones absorb all pressure harmlessly"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 189,
+    "category": "Body Massage",
+    "question": "What is the purpose of a pre-massage consultation?",
+    "options": [
+      "Diagnose cardiac disease",
+      "Establish goals, consent and safety",
+      "Guarantee weight loss",
+      "Replace chart notes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 190,
+    "category": "Body Massage",
+    "question": "What should be done for fever or systemic illness before massage?",
+    "options": [
+      "Massage without discussion",
+      "Proceed with deep massage",
+      "Postpone and recommend medical advice where appropriate",
+      "Use maximum heat"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 191,
+    "category": "Body Treatments and Spa",
+    "question": "What is body exfoliation designed to remove primarily?",
+    "options": [
+      "Sweat glands",
+      "Loose surface corneocytes",
+      "Entire epidermis",
+      "Dermal nerves"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 192,
+    "category": "Body Treatments and Spa",
+    "question": "What is a common purpose of body wraps?",
+    "options": [
+      "Removal of all toxins from blood",
+      "Temporary conditioning or hydration of skin",
+      "Bone strengthening",
+      "Permanent weight loss"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 193,
+    "category": "Body Treatments and Spa",
+    "question": "Why is hydration important in spa treatments?",
+    "options": [
+      "Support general comfort and normal physiology",
+      "Change blood type",
+      "Guarantee instant fat loss",
+      "Stop all sweating"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 194,
+    "category": "Body Treatments and Spa",
+    "question": "What is the main action of an occlusive product?",
+    "options": [
+      "Destroy hair follicles",
+      "Increase oxygen in air",
+      "Reduce evaporation of water from skin",
+      "Increase UV dose"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 195,
+    "category": "Body Treatments and Spa",
+    "question": "When should body scrubs be avoided?",
+    "options": [
+      "Only in winter",
+      "On sunburn or broken skin",
+      "Whenever client is hydrated",
+      "On intact non-sensitive skin always"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 196,
+    "category": "Body Treatments and Spa",
+    "question": "What should be considered with hot stone treatments?",
+    "options": [
+      "Hair texture",
+      "Only stone color",
+      "Temperature safety and sensation assessment",
+      "Makeup shade"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 197,
+    "category": "Body Treatments and Spa",
+    "question": "Which condition may impair heat sensation and require extra caution?",
+    "options": [
+      "Normal sensation",
+      "Healthy nails",
+      "Peripheral neuropathy",
+      "Mild oiliness"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 198,
+    "category": "Body Treatments and Spa",
+    "question": "What is a primary concern with over-heated body wraps?",
+    "options": [
+      "Improved skin barrier always",
+      "Increased nail growth",
+      "Heat stress or burns",
+      "Permanent acne cure"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 199,
+    "category": "Body Treatments and Spa",
+    "question": "What does aromatherapy use?",
+    "options": [
+      "Strong acids only",
+      "Aromatic plant-derived essential oils",
+      "Electrodes",
+      "Only synthetic pigments"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 200,
+    "category": "Body Treatments and Spa",
+    "question": "Why are essential oils usually diluted for skin use?",
+    "options": [
+      "To increase UV protection",
+      "To remove all fragrance",
+      "To make them sterile",
+      "To reduce irritation and sensitization risk"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 201,
+    "category": "Body Treatments and Spa",
+    "question": "Which clients require special caution around certain essential oils?",
+    "options": [
+      "Only clients with blue eyes",
+      "All people with short hair",
+      "Pregnant clients and those with relevant medical conditions",
+      "Only teenagers with no sensitivities"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 202,
+    "category": "Body Treatments and Spa",
+    "question": "What is hydrotherapy?",
+    "options": [
+      "Treatment by ultraviolet pigment",
+      "Permanent tattooing",
+      "Cosmetic dentistry",
+      "Therapeutic use of water"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 203,
+    "category": "Body Treatments and Spa",
+    "question": "What is a contraindication to a very hot treatment?",
+    "options": [
+      "Normal body temperature",
+      "Healthy sweat glands",
+      "Clean intact skin",
+      "Uncontrolled heat sensitivity or relevant cardiovascular problems"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 204,
+    "category": "Body Treatments and Spa",
+    "question": "What is an appropriate objective for a relaxation body treatment?",
+    "options": [
+      "Guaranteed reduction of body fat",
+      "Permanent muscle growth",
+      "Comfort and wellbeing",
+      "Diagnosis of disease"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 205,
+    "category": "Body Treatments and Spa",
+    "question": "What should be done before using a new body mask?",
+    "options": [
+      "Assume every client tolerates it",
+      "Skip skin inspection",
+      "Apply to open wounds",
+      "Review ingredients, sensitivities and contraindications"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 206,
+    "category": "Body Treatments and Spa",
+    "question": "Why is single-use linen or fresh laundering important?",
+    "options": [
+      "Make treatment longer",
+      "Change room humidity",
+      "Limit cross-contamination",
+      "Increase scent only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 207,
+    "category": "Body Treatments and Spa",
+    "question": "How should a therapist describe detox claims for wraps?",
+    "options": [
+      "Claim permanent immune boosts",
+      "Guarantee removal of liver toxins",
+      "Promise organ cleansing",
+      "Avoid unsupported promises of removing systemic toxins"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 208,
+    "category": "Body Treatments and Spa",
+    "question": "Why must the client's comfort be checked during wrap treatment?",
+    "options": [
+      "It replaces informed consent",
+      "Wrapping always improves oxygen supply",
+      "Heat and restriction can cause discomfort",
+      "It determines hair color"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 209,
+    "category": "Body Treatments and Spa",
+    "question": "Which post-treatment instruction suits freshly exfoliated skin?",
+    "options": [
+      "Apply undiluted fragrance oils",
+      "Use gentle care and sun protection",
+      "Use harsh scrubs immediately",
+      "Avoid all moisture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 210,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which nutrient is the body's principal dietary energy source?",
+    "options": [
+      "Calcium",
+      "Carbohydrate",
+      "Vitamin C",
+      "Water"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 211,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which nutrient is needed for building and repairing tissues?",
+    "options": [
+      "Vitamin D only",
+      "Protein",
+      "Water only",
+      "Sodium only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 212,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which macronutrient supplies approximately 9 kcal per gram?",
+    "options": [
+      "Protein",
+      "Fiber",
+      "Fat",
+      "Carbohydrate"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 213,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which vitamin is important in collagen synthesis?",
+    "options": [
+      "Vitamin C",
+      "Vitamin K only",
+      "Vitamin A only",
+      "Vitamin B12 only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 214,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which mineral is essential for hemoglobin?",
+    "options": [
+      "Fluoride",
+      "Calcium",
+      "Iron",
+      "Potassium only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 215,
+    "category": "Nutrition and Lifestyle",
+    "question": "What is the function of dietary fiber?",
+    "options": [
+      "Support bowel function",
+      "Prevent any disease",
+      "Provide all vitamins",
+      "Replace all protein"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 216,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which nutrient is essential for hydration and temperature regulation?",
+    "options": [
+      "Melanin",
+      "Cholesterol",
+      "Water",
+      "Keratin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 217,
+    "category": "Nutrition and Lifestyle",
+    "question": "What helps the body absorb fat-soluble vitamins?",
+    "options": [
+      "Only water",
+      "Keratin",
+      "Dietary fat",
+      "Collagen cream"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 218,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which vitamins are fat-soluble?",
+    "options": [
+      "B1, B2, B6 and C",
+      "A, D, E and K",
+      "C and B12",
+      "Only vitamin C"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 219,
+    "category": "Nutrition and Lifestyle",
+    "question": "What does a balanced diet generally include?",
+    "options": [
+      "Only supplements",
+      "No protein",
+      "Only one food group",
+      "Varied nutrient-dense foods"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 220,
+    "category": "Nutrition and Lifestyle",
+    "question": "What is BMI based on?",
+    "options": [
+      "Weight relative to height squared",
+      "Skinfold color",
+      "Water intake only",
+      "Heart rate only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 221,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which habit supports skin health?",
+    "options": [
+      "Regular sunscreen use",
+      "Ignoring sleep",
+      "Repeated sunburn",
+      "Frequent tanning beds"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 222,
+    "category": "Nutrition and Lifestyle",
+    "question": "What is the major preventable environmental contributor to skin aging?",
+    "options": [
+      "Adequate sleep",
+      "Excess UV exposure",
+      "Gentle cleansing",
+      "Drinking water"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 223,
+    "category": "Nutrition and Lifestyle",
+    "question": "How can smoking affect skin?",
+    "options": [
+      "Guarantee more collagen",
+      "Eliminate wrinkles",
+      "Protect against UV",
+      "Contribute to premature skin aging"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 224,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which factor may worsen skin condition through irritation?",
+    "options": [
+      "Gentle moisturizing",
+      "Adequate sleep",
+      "Sun protection",
+      "Harsh over-cleansing"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 225,
+    "category": "Nutrition and Lifestyle",
+    "question": "What is an evidence-based approach to hydration?",
+    "options": [
+      "Drink fluids according to needs and circumstances",
+      "Avoid all fluids",
+      "Force extreme water intake",
+      "Replace water with essential oils"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 226,
+    "category": "Nutrition and Lifestyle",
+    "question": "Which activity supports general cardiovascular health?",
+    "options": [
+      "Only facial massage",
+      "Prolonged inactivity",
+      "Skipping sleep",
+      "Regular physical activity"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 227,
+    "category": "Nutrition and Lifestyle",
+    "question": "What does prolonged high stress sometimes affect?",
+    "options": [
+      "Eye color",
+      "Bone length",
+      "Hair color instantly",
+      "Sleep and skin symptom perception"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 228,
+    "category": "Nutrition and Lifestyle",
+    "question": "What is a therapist's appropriate role in dietary advice?",
+    "options": [
+      "Discontinue medications",
+      "Diagnose deficiencies",
+      "Prescribe therapeutic diets for disease",
+      "Offer general healthy-lifestyle information within scope"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 229,
+    "category": "Microbiology and Hygiene",
+    "question": "What are bacteria?",
+    "options": [
+      "Single-celled microorganisms",
+      "Only body cells",
+      "Nonliving minerals",
+      "Always multicellular worms"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 230,
+    "category": "Microbiology and Hygiene",
+    "question": "What are viruses?",
+    "options": [
+      "Infectious agents requiring host cells to replicate",
+      "Large visible insects",
+      "Human red blood cells",
+      "Normal skin lipids"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 231,
+    "category": "Microbiology and Hygiene",
+    "question": "What is a fungus?",
+    "options": [
+      "Organism that may include yeast or molds",
+      "A mineral",
+      "Type of red blood cell",
+      "Hormone only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 232,
+    "category": "Microbiology and Hygiene",
+    "question": "What is cross-contamination?",
+    "options": [
+      "Transfer of microbes between people or surfaces",
+      "Reducing room temperature",
+      "Normal product drying",
+      "Hair shedding"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 233,
+    "category": "Microbiology and Hygiene",
+    "question": "What is the most basic measure before and after client contact?",
+    "options": [
+      "Changing music",
+      "Applying foundation",
+      "Perfume application",
+      "Hand hygiene"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 234,
+    "category": "Microbiology and Hygiene",
+    "question": "What is the distinction between cleaning and disinfection?",
+    "options": [
+      "Disinfection removes only visible dust",
+      "They always mean the same thing",
+      "Cleaning removes soil; disinfection reduces pathogens on surfaces",
+      "Cleaning kills all spores"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 235,
+    "category": "Microbiology and Hygiene",
+    "question": "What does sterilization mean?",
+    "options": [
+      "Applying fragrance",
+      "Routine towel drying",
+      "Destruction of all forms of microbial life including spores",
+      "Removal of visible oil only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 236,
+    "category": "Microbiology and Hygiene",
+    "question": "Why must reusable implements be cleaned before disinfection?",
+    "options": [
+      "Organic debris can reduce disinfection effectiveness",
+      "It changes their color",
+      "Cleaning adds fragrance",
+      "Water is always sterile"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 237,
+    "category": "Microbiology and Hygiene",
+    "question": "What should be done with single-use implements?",
+    "options": [
+      "Wash and reuse indefinitely",
+      "Share without cleaning",
+      "Store in product jars",
+      "Discard after one client according to rules"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 238,
+    "category": "Microbiology and Hygiene",
+    "question": "Which personal protective equipment may be needed for exposure to blood?",
+    "options": [
+      "Appropriate disposable gloves",
+      "Hair clip",
+      "Perfume mask",
+      "Sunglasses only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 239,
+    "category": "Microbiology and Hygiene",
+    "question": "What is the correct response to accidental sharps injury?",
+    "options": [
+      "Reuse the sharp",
+      "Ignore puncture",
+      "Follow exposure protocol and seek appropriate medical advice",
+      "Cover it with makeup only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 240,
+    "category": "Microbiology and Hygiene",
+    "question": "Why should expired disinfectant solutions be replaced?",
+    "options": [
+      "They always strengthen",
+      "They turn into water only",
+      "Effectiveness may not be assured",
+      "They become perfume"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 241,
+    "category": "Microbiology and Hygiene",
+    "question": "What is a common sign of local infection?",
+    "options": [
+      "Redness, warmth, pain and swelling",
+      "Stable hair length",
+      "Uniform healthy skin",
+      "Normal nail growth"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 242,
+    "category": "Microbiology and Hygiene",
+    "question": "How should soiled linens be handled?",
+    "options": [
+      "Store with clean towels",
+      "Reuse immediately",
+      "Shake near clients",
+      "Separate and launder according to infection-control procedures"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 243,
+    "category": "Microbiology and Hygiene",
+    "question": "What is an appropriate action if you have a contagious illness?",
+    "options": [
+      "Follow workplace policy and avoid exposing clients",
+      "Avoid reporting symptoms",
+      "Continue close contact always",
+      "Share towels"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 244,
+    "category": "Microbiology and Hygiene",
+    "question": "What is a pathogen?",
+    "options": [
+      "A vitamin",
+      "Any moisturizer",
+      "Microorganism capable of causing disease",
+      "Every skin cell"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 245,
+    "category": "Microbiology and Hygiene",
+    "question": "What does incubation period describe?",
+    "options": [
+      "Time to wash hands only",
+      "Time needed to dry nail polish",
+      "Length of hair growth",
+      "Time between exposure and appearance of symptoms"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 246,
+    "category": "Microbiology and Hygiene",
+    "question": "What is a key aspect of respiratory hygiene?",
+    "options": [
+      "Cough toward clients",
+      "Share face masks",
+      "Cover coughs and perform hand hygiene",
+      "Ignore ventilation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 247,
+    "category": "Consultation and Professional Practice",
+    "question": "Why is informed consent necessary?",
+    "options": [
+      "It guarantees no adverse effects",
+      "Client understands treatment and agrees voluntarily",
+      "It permits treatment outside qualifications",
+      "It replaces consultation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 248,
+    "category": "Consultation and Professional Practice",
+    "question": "Which information is important during consultation?",
+    "options": [
+      "Relevant allergies, medications and health conditions",
+      "Shoe size alone",
+      "Only social media handle",
+      "Favorite color only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 249,
+    "category": "Consultation and Professional Practice",
+    "question": "What does confidentiality require?",
+    "options": [
+      "Sharing photos without permission",
+      "Leaving records visible",
+      "Discussing details publicly",
+      "Protecting client information from unauthorized disclosure"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 250,
+    "category": "Consultation and Professional Practice",
+    "question": "What is a contraindication?",
+    "options": [
+      "A product shade",
+      "A price discount",
+      "Client's favorite service",
+      "Condition that may prevent or modify a treatment"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 251,
+    "category": "Consultation and Professional Practice",
+    "question": "What is a contra-action?",
+    "options": [
+      "Normal nail anatomy",
+      "An adverse or unexpected response to treatment",
+      "A skin type",
+      "A marketing slogan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 252,
+    "category": "Consultation and Professional Practice",
+    "question": "What is the best response to a treatment outside your competence?",
+    "options": [
+      "Promise certain results",
+      "Decline and refer to qualified professional",
+      "Proceed without training",
+      "Hide limitations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 253,
+    "category": "Consultation and Professional Practice",
+    "question": "What is a realistic goal-setting principle?",
+    "options": [
+      "Use medical diagnoses without qualification",
+      "Guarantee identical results",
+      "Hide potential risks",
+      "Explain expected benefits and limitations"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 254,
+    "category": "Consultation and Professional Practice",
+    "question": "Why use a consultation form?",
+    "options": [
+      "Provide legal immunity in every case",
+      "Replace handwashing",
+      "Avoid listening",
+      "Document relevant information and informed decisions"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 255,
+    "category": "Consultation and Professional Practice",
+    "question": "How should client photos be handled?",
+    "options": [
+      "With explicit appropriate consent and secure storage",
+      "Share freely with friends",
+      "Post automatically",
+      "Use without explanation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 256,
+    "category": "Consultation and Professional Practice",
+    "question": "Which communication technique helps establish understanding?",
+    "options": [
+      "Interrupting repeatedly",
+      "Using unexplained jargon",
+      "Open-ended questions and active listening",
+      "Ignoring concerns"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 257,
+    "category": "Consultation and Professional Practice",
+    "question": "What should be provided after a treatment?",
+    "options": [
+      "No explanation",
+      "Relevant aftercare advice and warning signs",
+      "Guaranteed medical results",
+      "Only a sales receipt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 258,
+    "category": "Consultation and Professional Practice",
+    "question": "What is the appropriate response to a client complaint?",
+    "options": [
+      "Argue immediately",
+      "Listen, document and follow escalation policy",
+      "Publish their complaint",
+      "Delete records"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 259,
+    "category": "Consultation and Professional Practice",
+    "question": "Why is professional insurance relevant?",
+    "options": [
+      "It is a medical license",
+      "It replaces safe practice",
+      "It may cover defined professional liabilities",
+      "It guarantees a profit"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 260,
+    "category": "Consultation and Professional Practice",
+    "question": "What should a therapist do with an observed suspicious lesion?",
+    "options": [
+      "Recommend appropriate medical assessment",
+      "Remove it with a peel",
+      "Diagnose cancer",
+      "Hide it using makeup"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 261,
+    "category": "Consultation and Professional Practice",
+    "question": "What is a treatment plan?",
+    "options": [
+      "Universal formula for all clients",
+      "Product advertisement",
+      "Documented service strategy tailored to assessment",
+      "Medical prescription"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 262,
+    "category": "Consultation and Professional Practice",
+    "question": "Why obtain permission before changing the treatment?",
+    "options": [
+      "Avoid charting",
+      "Increase treatment intensity secretly",
+      "Meet sales targets",
+      "Maintain informed consent"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 263,
+    "category": "Consultation and Professional Practice",
+    "question": "How should an adverse reaction be recorded?",
+    "options": [
+      "Only verbally years later",
+      "Delete earlier notes",
+      "Alter facts",
+      "Factually, promptly and in accordance with policy"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 264,
+    "category": "Consultation and Professional Practice",
+    "question": "What is the correct approach to contraindication uncertainty?",
+    "options": [
+      "Assume safe",
+      "Avoid documenting",
+      "Pause and seek guidance before treating",
+      "Apply maximum intensity"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 265,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What does pH measure?",
+    "options": [
+      "Skin thickness",
+      "Product weight only",
+      "Acidity or alkalinity of an aqueous solution",
+      "Oil thickness"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 266,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What is the pH of a neutral aqueous solution at 25 C?",
+    "options": [
+      "Approximately 3",
+      "Approximately 7",
+      "Approximately 1",
+      "Approximately 14"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 267,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Which pH range is acidic?",
+    "options": [
+      "Exactly 10",
+      "Above 7",
+      "Below 7",
+      "Only 14"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 268,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What is an emulsion?",
+    "options": [
+      "Solid metal alloy",
+      "Mixture of normally immiscible liquids stabilized by emulsifier",
+      "Pure water only",
+      "Dry powder alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 269,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What is an oil-in-water emulsion?",
+    "options": [
+      "Oil without any water",
+      "Water droplets in continuous oil",
+      "Oil droplets dispersed in continuous water phase",
+      "Pure mineral oil"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 270,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What is a surfactant used for in cleansers?",
+    "options": [
+      "Help lift and remove oils and soil",
+      "Replace preservatives always",
+      "Create skin pigment",
+      "Increase bone growth"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 271,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Which ingredient is a humectant?",
+    "options": [
+      "Beeswax only",
+      "Talc",
+      "Hyaluronic acid",
+      "Petrolatum only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 272,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Which ingredient is primarily occlusive?",
+    "options": [
+      "Glycerin",
+      "Sodium PCA",
+      "Petrolatum",
+      "Urea at low concentration"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 273,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Which ingredient functions as an emollient?",
+    "options": [
+      "Citric acid only",
+      "Squalane",
+      "Sodium chloride only",
+      "Ethanol only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 274,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What is the purpose of cosmetic preservatives?",
+    "options": [
+      "Guarantee zero allergies",
+      "Remove all skin bacteria",
+      "Make sunscreen unnecessary",
+      "Reduce microbial growth in products"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 275,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What do AHAs such as glycolic acid commonly do?",
+    "options": [
+      "Act as antibiotics for all infections",
+      "Freeze muscles",
+      "Produce melanin directly",
+      "Promote surface exfoliation"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 276,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Which BHA is commonly used in skincare?",
+    "options": [
+      "Lactic acid",
+      "Hyaluronic acid",
+      "Salicylic acid",
+      "Ascorbic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 277,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What is niacinamide?",
+    "options": [
+      "A form of vitamin B3 used in skincare",
+      "A mineral sunscreen",
+      "A UV filter exclusively",
+      "An essential oil"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 278,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Which ingredient is a common mineral UV filter?",
+    "options": [
+      "Retinol",
+      "Lactic acid",
+      "Zinc oxide",
+      "Glycerin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 279,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What can make a cosmetic product more likely to irritate sensitive skin?",
+    "options": [
+      "Minimal fragrance",
+      "Mild formula",
+      "High fragrance concentration",
+      "Appropriate patch testing"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 280,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Why is ingredient labeling important?",
+    "options": [
+      "Guarantee that product is sterile",
+      "Identify potential allergens and aid safe selection",
+      "Predict exact outcomes for every user",
+      "Replace consultation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 281,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "Which vitamin A derivative is commonly used in cosmetic skin care?",
+    "options": [
+      "Tocopherol",
+      "Biotin only",
+      "Retinol",
+      "Ascorbic acid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 282,
+    "category": "Chemistry and Cosmetic Ingredients",
+    "question": "What is oxidation of an oil often associated with?",
+    "options": [
+      "Rancidity and quality deterioration",
+      "Conversion to protein",
+      "Production of water",
+      "Improved shelf life always"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 283,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What is a hormone?",
+    "options": [
+      "A bacterium",
+      "A type of connective tissue",
+      "Chemical messenger released by endocrine cells",
+      "A hair shaft layer"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 284,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which gland is often called the master gland?",
+    "options": [
+      "Eccrine gland",
+      "Salivary gland",
+      "Pituitary gland",
+      "Sebaceous gland"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 285,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Where is insulin produced?",
+    "options": [
+      "Thyroid follicles",
+      "Pancreatic beta cells",
+      "Adrenal cortex only",
+      "Ovary only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 286,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which hormone is associated with stress response?",
+    "options": [
+      "Calcitonin only",
+      "Melatonin only",
+      "Cortisol",
+      "Oxytocin only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 287,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which gland produces adrenaline?",
+    "options": [
+      "Thyroid gland",
+      "Sebaceous gland",
+      "Adrenal medulla",
+      "Pancreas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 288,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What regulates circadian sleep-wake signals?",
+    "options": [
+      "Keratin",
+      "Hemoglobin",
+      "Melatonin",
+      "Sebum"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 289,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which hormones commonly fluctuate across the menstrual cycle?",
+    "options": [
+      "Melanin and hemoglobin",
+      "Keratin and collagen",
+      "Insulin and sebum only",
+      "Estrogen and progesterone"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 290,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What does menopause mark?",
+    "options": [
+      "Beginning of puberty",
+      "Permanent cessation of menstrual periods due to ovarian aging",
+      "First trimester",
+      "Monthly ovulation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 291,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Why can pregnancy require modification of treatments?",
+    "options": [
+      "All heat treatments are always safe",
+      "Patch tests become illegal",
+      "Pregnancy never affects treatment",
+      "Physiological changes may alter contraindications and tolerability"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 292,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which hormone is involved in growth of some androgen-sensitive hair?",
+    "options": [
+      "Testosterone and its metabolite DHT",
+      "Insulin only",
+      "Melatonin only",
+      "Calcitonin only"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 293,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What does DHT stand for?",
+    "options": [
+      "Dual hormone transport",
+      "Dihydroxytocopherol",
+      "Dermal hydration threshold",
+      "Dihydrotestosterone"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 294,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which condition may present with hirsutism and irregular cycles?",
+    "options": [
+      "Psoriasis only",
+      "Polycystic ovary syndrome",
+      "Vitiligo only",
+      "Athlete's foot"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 295,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which hormone is produced primarily by the thyroid gland?",
+    "options": [
+      "Estrogen only",
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine (T4)"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 296,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "Which hormone helps regulate blood calcium?",
+    "options": [
+      "Sebum",
+      "Keratin",
+      "Melanin",
+      "Parathyroid hormone"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 297,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What is a symptom of possible hypoglycemia?",
+    "options": [
+      "Nail lengthening",
+      "Sweating, shaking and confusion",
+      "Hair bleaching",
+      "Permanent tan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 298,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What is the appropriate response to a faint client?",
+    "options": [
+      "Give electrical treatment",
+      "Continue massage",
+      "Stop treatment and follow first-aid procedures",
+      "Leave unattended"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 299,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What is the role of the endocrine system?",
+    "options": [
+      "Coordinate body functions through hormones",
+      "Only move bones",
+      "Only produce keratin",
+      "Only digest fats"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 300,
+    "category": "Endocrine and Reproductive Awareness",
+    "question": "What is the role of estrogen in skin?",
+    "options": [
+      "Removes all acne permanently",
+      "Influences hydration and collagen maintenance",
+      "Sterilizes skin",
+      "Directly forms nails"
+    ],
+    "answer": 1
+  }
+]
