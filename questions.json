@@ -3598,5 +3598,1705 @@
       "Directly forms nails"
     ],
     "answer": 1
+  },
+  {
+    "id": 301,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "What is the function of the endoplasmic reticulum?",
+    "options": [
+      "To transport substances from one part of a cell to another",
+      "Growth and repair",
+      "Destroys worn-out parts of a cell",
+      "Secretes carbohydrates"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 1
+    }
+  },
+  {
+    "id": 302,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "Which type of cartilage is found on the surfaces of joints?",
+    "options": [
+      "Hyaline",
+      "Yellow elastic",
+      "Elastic",
+      "White fibrocartilage"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 2
+    }
+  },
+  {
+    "id": 303,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "What do mast cells produce?",
+    "options": [
+      "Areolar tissue",
+      "Histamine and heparin",
+      "Melanin",
+      "Red blood cells"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 3
+    }
+  },
+  {
+    "id": 304,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "In which layer of the epidermis does mitosis occur?",
+    "options": [
+      "Prickle cell layer",
+      "Granular layer",
+      "Basal layer",
+      "Clear layer"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 4
+    }
+  },
+  {
+    "id": 305,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "Which of the following skin disorders is contagious?",
+    "options": [
+      "Impetigo",
+      "Acne vulgaris",
+      "Chloasma",
+      "Comedones"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 5
+    }
+  },
+  {
+    "id": 306,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "What bones form the bridge of the nose?",
+    "options": [
+      "Ethmoid bones",
+      "Nasal bones",
+      "Vomer",
+      "Lacrimal bones"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 6
+    }
+  },
+  {
+    "id": 307,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "Inflammation of the joints is known as:",
+    "options": [
+      "Gout",
+      "Osteoporosis",
+      "Neuritis",
+      "Arthritis"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 7
+    }
+  },
+  {
+    "id": 308,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "What cells break down areas of bone tissue?",
+    "options": [
+      "Osteoblasts",
+      "Osteocytes",
+      "Osteoclasts",
+      "Chondrocytes"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 8
+    }
+  },
+  {
+    "id": 309,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "Which of the following is NOT an action of the pectoralis major?",
+    "options": [
+      "Draws arm backwards",
+      "Draws arm forwards",
+      "Medially rotates arm",
+      "Adducts humerus"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 9
+    }
+  },
+  {
+    "id": 310,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "What is the approximate composition of muscle?",
+    "options": [
+      "75% water, 20% protein, 5% mineral salts, fats and glycogen",
+      "75% water, 15% protein, 10% mineral salts, fats and glucose",
+      "75% water, 20% protein, 5% mineral salts, fats and maltose",
+      "75% water and 25% protein"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 10
+    }
+  },
+  {
+    "id": 311,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "What muscle elevates the mandible?",
+    "options": [
+      "Sternocleidomastoid",
+      "Medial pterygoid",
+      "Lateral pterygoid",
+      "Buccinator"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 11
+    }
+  },
+  {
+    "id": 312,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "Which of the following is NOT a function of superficial fascia?",
+    "options": [
+      "Helps retain body warmth",
+      "Connects skin with deep fascia",
+      "Allows movement of the skin",
+      "Connects muscles with deep fascia"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 12
+    }
+  },
+  {
+    "id": 313,
+    "category": "Anatomy & Physiology · Mock Paper 1",
+    "question": "The function of monocytes is to:",
+    "options": [
+      "Destroy harmful blood cells to protect the body from infection",
+      "Transport oxygen as oxyhaemoglobin",
+      "Defend the system against microorganisms",
+      "Eat bacteria and other microorganisms"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 1,
+      "question": 13
+    }
+  },
+  {
+    "id": 314,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "What does cytoplasm NOT contain?",
+    "options": [
+      "Mitochondria",
+      "Ribosomes",
+      "Nucleus",
+      "Endoplasmic reticulum"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 1
+    }
+  },
+  {
+    "id": 315,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "The spindle fibres disappear during which phase of mitosis?",
+    "options": [
+      "Metaphase",
+      "Prophase",
+      "Interphase",
+      "Telophase"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 2
+    }
+  },
+  {
+    "id": 316,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "What is the function of the nucleolus?",
+    "options": [
+      "To control the centre of the cell",
+      "To produce chromosomes",
+      "To produce protein",
+      "To form ribosomes"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 3
+    }
+  },
+  {
+    "id": 317,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "Erector pili can be defined as:",
+    "options": [
+      "Hair follicles which produce sebum",
+      "Small muscles which are attached to each hair follicle",
+      "Microscopic capillaries",
+      "Nerve endings"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 4
+    }
+  },
+  {
+    "id": 318,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "Where is terminal hair found?",
+    "options": [
+      "On a foetus",
+      "Eyebrows",
+      "Eyelids",
+      "Soles of the feet"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 5
+    }
+  },
+  {
+    "id": 319,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "The acid mantle is formed from:",
+    "options": [
+      "Eccrine and apocrine fluid",
+      "Mast cells",
+      "Sweat and sebum",
+      "Histamine and heparin"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 6
+    }
+  },
+  {
+    "id": 320,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "What is dermatitis?",
+    "options": [
+      "An inflammation of the skin caused by contact with external factors",
+      "An allergy marked by the eruption of wheals with severe itching",
+      "An erythema covered with silvery scales",
+      "Eczema"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 7
+    }
+  },
+  {
+    "id": 321,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "The perionychium describes:",
+    "options": [
+      "The extension of the nail plate beyond the nail bed",
+      "The skin that adheres to the base of the nail",
+      "The cuticles that overlap the sides of the nail",
+      "The deep fold of skin at the base of the nail"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 8
+    }
+  },
+  {
+    "id": 322,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "Which bone joins the foot to the leg?",
+    "options": [
+      "Navicular",
+      "Cuboid",
+      "Cuneiform",
+      "Talus"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 9
+    }
+  },
+  {
+    "id": 323,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "The fibula is a type of:",
+    "options": [
+      "Short bone",
+      "Irregular bone",
+      "Flat bone",
+      "Long bone"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 10
+    }
+  },
+  {
+    "id": 324,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "What parts of the body does the axial skeleton support?",
+    "options": [
+      "Head and neck",
+      "Lower limbs",
+      "Head, neck, spine, ribs and sternum",
+      "Shoulder girdle and upper limbs"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 11
+    }
+  },
+  {
+    "id": 325,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "Which bone divides the nose into left and right halves?",
+    "options": [
+      "Vomer",
+      "Sphenoid",
+      "Parietal",
+      "Lacrimal"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 12
+    }
+  },
+  {
+    "id": 326,
+    "category": "Anatomy & Physiology · Mock Paper 2",
+    "question": "The anatomical term palmar refers to:",
+    "options": [
+      "The palm of the hand",
+      "The inner surface of the body",
+      "The sole of the foot",
+      "Lying face up"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 2,
+      "question": 13
+    }
+  },
+  {
+    "id": 327,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "What is a cell mainly composed of?",
+    "options": [
+      "Cytoplasm",
+      "Centrioles",
+      "Water",
+      "Mitochondria"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 1
+    }
+  },
+  {
+    "id": 328,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "What is the function of hyaline cartilage?",
+    "options": [
+      "Helps to maintain the shape of an area",
+      "Flexibility and support",
+      "To add nutrients to articulating surfaces",
+      "Stretch and recoil"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 2
+    }
+  },
+  {
+    "id": 329,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "The study of the structure of the body is known as:",
+    "options": [
+      "Histology",
+      "Homeostasis",
+      "Physiology",
+      "Anatomy"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 3
+    }
+  },
+  {
+    "id": 330,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Osmosis describes:",
+    "options": [
+      "The process of moving small molecules such as oxygen and carbon dioxide through the cell membrane",
+      "The movement of water through a cell membrane from an area of high concentration to an area of low concentration or vice versa",
+      "The movement of water across a membrane",
+      "The transfer of glucose and amino acids through the cell membrane to equal concentration"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 4
+    }
+  },
+  {
+    "id": 331,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Desquamation can be defined as:",
+    "options": [
+      "The dead skin cells on the surface of the skin are constantly shedding",
+      "Granules which are visible in healing after trauma",
+      "A pigmentation which gives skin its colour",
+      "Cell division"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 5
+    }
+  },
+  {
+    "id": 332,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Which skin disorder affects the forehead, cheeks and nose, causing a flushed reddened appearance?",
+    "options": [
+      "Acne vulgaris",
+      "Eczema",
+      "Herpes zoster",
+      "Acne rosacea"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 6
+    }
+  },
+  {
+    "id": 333,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "The stratum lucidum is known as:",
+    "options": [
+      "Clear layer",
+      "Surface layer",
+      "Basal layer",
+      "Granular layer"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 7
+    }
+  },
+  {
+    "id": 334,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Which pigment gives skin its natural colour?",
+    "options": [
+      "Histamine",
+      "Melanin",
+      "Heparin",
+      "Collagen"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 8
+    }
+  },
+  {
+    "id": 335,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "What part of the hair lies above the skin surface?",
+    "options": [
+      "Root",
+      "Bulb",
+      "Shaft",
+      "Matrix"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 9
+    }
+  },
+  {
+    "id": 336,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Which of the following can be found in the epidermis?",
+    "options": [
+      "Sweat glands",
+      "Lymph vessels",
+      "Melanocytes",
+      "Elastin"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 10
+    }
+  },
+  {
+    "id": 337,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Haversian canals can be defined as:",
+    "options": [
+      "Small channels running lengthways",
+      "Small channels running lengthways through compact bone",
+      "Small channels running lengthways through cancellous bone",
+      "Small channels found in cancellous bone containing oxygen and nutrients"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 11
+    }
+  },
+  {
+    "id": 338,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Where is the foramen magnum located?",
+    "options": [
+      "Occipital bone",
+      "Mandible",
+      "Parietal bone",
+      "Frontal bone"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 12
+    }
+  },
+  {
+    "id": 339,
+    "category": "Anatomy & Physiology · Mock Paper 3",
+    "question": "Which part of the body is the cervical spine positioned?",
+    "options": [
+      "Lower back",
+      "Ribs",
+      "Neck",
+      "Pelvis"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 3,
+      "question": 13
+    }
+  },
+  {
+    "id": 340,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "Which part of the cell regulates what substances enter and leave a cell?",
+    "options": [
+      "Cytoplasm",
+      "Ribosomes",
+      "Nucleus",
+      "Cell membrane"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 1
+    }
+  },
+  {
+    "id": 341,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "What is the function of the cell membrane?",
+    "options": [
+      "To control every organelle within the cytoplasm",
+      "To destroy harmful parts of a cell",
+      "To hold the organelles within the cell",
+      "To let carbohydrates pass through the cell"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 2
+    }
+  },
+  {
+    "id": 342,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "Phagocytosis describes:",
+    "options": [
+      "The process used by cells to engulf and destroy harmful bacteria",
+      "The process used by cells to absorb nutrients and other substances",
+      "The process by which cells obtain energy by osmosis",
+      "The process by which nutrients are released from a cell"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 3
+    }
+  },
+  {
+    "id": 343,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "Function of yellow elastic cartilage:",
+    "options": [
+      "Connection",
+      "Protection",
+      "Flexibility",
+      "Insulation"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 4
+    }
+  },
+  {
+    "id": 344,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "Inflammation of the tissue surrounding the nails is called:",
+    "options": [
+      "Onychia",
+      "Onycholysis",
+      "Onychorrhexis",
+      "Paronychia"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 5
+    }
+  },
+  {
+    "id": 345,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "Comedones are also known as:",
+    "options": [
+      "Freckles",
+      "Hives",
+      "Blackheads",
+      "Whiteheads"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 6
+    }
+  },
+  {
+    "id": 346,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "What is the purpose of collagen in the skin?",
+    "options": [
+      "To repair the skin",
+      "To reduce redness",
+      "To produce the anticoagulant heparin",
+      "To keep the skin firm and elastic"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 7
+    }
+  },
+  {
+    "id": 347,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "Which one of the following is a layer of the hair?",
+    "options": [
+      "Cortex",
+      "Matrix",
+      "Dermal papilla",
+      "Keratin"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 8
+    }
+  },
+  {
+    "id": 348,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "A non-malignant group of pigmented cells is:",
+    "options": [
+      "Mole",
+      "Naevae",
+      "Urticaria",
+      "Chloasma"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 9
+    }
+  },
+  {
+    "id": 349,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "Which of the following cells are NOT found within the dermis?",
+    "options": [
+      "Leucocytes",
+      "Mast cells",
+      "Thrombocytes",
+      "Histiocytes"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 10
+    }
+  },
+  {
+    "id": 350,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "The scapula falls under which category of bone?",
+    "options": [
+      "Irregular bone",
+      "Flat bone",
+      "Long bone",
+      "Sesamoid bone"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 11
+    }
+  },
+  {
+    "id": 351,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "What type of arthritis results in the joints of the spine becoming fused?",
+    "options": [
+      "Cervical spondylitis",
+      "Gout",
+      "Rheumatoid arthritis",
+      "Ankylosing spondylitis"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 12
+    }
+  },
+  {
+    "id": 352,
+    "category": "Anatomy & Physiology · Mock Paper 4",
+    "question": "How many bones do the lumbar vertebrae contain?",
+    "options": [
+      "12",
+      "7",
+      "4",
+      "5"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 4,
+      "question": 13
+    }
+  },
+  {
+    "id": 353,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "What is the energy-transporting molecule produced by mitochondria?",
+    "options": [
+      "ATP",
+      "Oxygen",
+      "Protoplasm",
+      "Cytoplasm"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 1
+    }
+  },
+  {
+    "id": 354,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "The study of the structure of the body is known as:",
+    "options": [
+      "Histology",
+      "Homeostasis",
+      "Physiology",
+      "Anatomy"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 2
+    }
+  },
+  {
+    "id": 355,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "What is the process called whereby small molecules, like oxygen and carbon dioxide, can pass through the cell membrane?",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Filtration",
+      "Dissolution"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 3
+    }
+  },
+  {
+    "id": 356,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "What type of skin disorder is impetigo?",
+    "options": [
+      "Viral infection",
+      "Congenital infection",
+      "Bacterial infection",
+      "General infection"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 4
+    }
+  },
+  {
+    "id": 357,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "Ephelides are more commonly referred to as:",
+    "options": [
+      "Liver spots",
+      "Whiteheads",
+      "Blackheads",
+      "Freckles"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 5
+    }
+  },
+  {
+    "id": 358,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "Which of the following is the middle layer of the hair?",
+    "options": [
+      "Cortex",
+      "Shaft",
+      "Medulla",
+      "Bulb"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 6
+    }
+  },
+  {
+    "id": 359,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "What is the mantle?",
+    "options": [
+      "The growing area of the nail",
+      "Deep fold of epidermis just before the cuticle at the base of the nail",
+      "The section of skin that the nail plate rests on",
+      "The grooves at the sides of the nail bed"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 7
+    }
+  },
+  {
+    "id": 360,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "The bone at the top of the arm is called:",
+    "options": [
+      "Humerus",
+      "Ulna",
+      "Radius",
+      "Carpals"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 8
+    }
+  },
+  {
+    "id": 361,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "What type of joint is the knee?",
+    "options": [
+      "Gliding",
+      "Saddle",
+      "Hinge",
+      "Pivot"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 9
+    }
+  },
+  {
+    "id": 362,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "Which of the following is a type of sesamoid bone?",
+    "options": [
+      "Malleus",
+      "Patella",
+      "Humerus",
+      "Tarsals"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 10
+    }
+  },
+  {
+    "id": 363,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "What is the shaft of a long bone known as?",
+    "options": [
+      "Periosteum",
+      "Diaphysis",
+      "Articular cartilage",
+      "Epiphysis"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 11
+    }
+  },
+  {
+    "id": 364,
+    "category": "Anatomy & Physiology · Mock Paper 5",
+    "question": "What muscle is positioned on the front of the lower leg?",
+    "options": [
+      "Soleus",
+      "Gastrocnemius",
+      "Flexor digitorum longus",
+      "Tibialis anterior"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 5,
+      "question": 13
+    }
+  },
+  {
+    "id": 365,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "What type of tissue is adipose tissue?",
+    "options": [
+      "Nervous tissue",
+      "Permeable tissue",
+      "Elastic tissue",
+      "Fatty tissue"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 1
+    }
+  },
+  {
+    "id": 366,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "An area of cytoplasm which contains the centrioles is called:",
+    "options": [
+      "Chromatid",
+      "Centromere",
+      "Chromosome",
+      "Centrosome"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 2
+    }
+  },
+  {
+    "id": 367,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "The transport of substances in a cell is helped by:",
+    "options": [
+      "Ribosomes",
+      "Mitochondria",
+      "Endoplasmic reticulum",
+      "Lysosomes"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 3
+    }
+  },
+  {
+    "id": 368,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "In which phase of mitosis does the nucleolus disappear?",
+    "options": [
+      "Interphase",
+      "Telophase",
+      "Prophase",
+      "Anaphase"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 4
+    }
+  },
+  {
+    "id": 369,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "Leukonychia describes:",
+    "options": [
+      "Cracking of the skin around the nail plate",
+      "White spots on the nail plate",
+      "Flaking nails",
+      "Forward growth of the cuticle"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 5
+    }
+  },
+  {
+    "id": 370,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "Which one of the following cannot be absorbed by the skin?",
+    "options": [
+      "Drugs",
+      "Water",
+      "Almond oil",
+      "Essential oils"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 6
+    }
+  },
+  {
+    "id": 371,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "Which one of the following is the resting stage of hair growth?",
+    "options": [
+      "Anagen",
+      "Interphase",
+      "Catagen",
+      "Telogen"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 7
+    }
+  },
+  {
+    "id": 372,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "What do eccrine glands excrete?",
+    "options": [
+      "Milky fluid",
+      "Oil",
+      "Sebum",
+      "Watery sweat"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 8
+    }
+  },
+  {
+    "id": 373,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "What type of skin disorder is a port wine stain?",
+    "options": [
+      "Bacterial",
+      "Fungal",
+      "Viral",
+      "Pigmentation"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 9
+    }
+  },
+  {
+    "id": 374,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "Desquamation occurs on which layer of the skin?",
+    "options": [
+      "Stratum spinosum",
+      "Stratum lucidum",
+      "Granular layer",
+      "Stratum corneum"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 10
+    }
+  },
+  {
+    "id": 375,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "Which bone joins the foot to the leg?",
+    "options": [
+      "Navicular",
+      "Cuboid",
+      "Cuneiform",
+      "Talus"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 11
+    }
+  },
+  {
+    "id": 376,
+    "category": "Anatomy & Physiology · Mock Paper 6",
+    "question": "What is the structure of slightly movable joints?",
+    "options": [
+      "Protective pads of fibrocartilage between the bones",
+      "Muscular tissue between the bones",
+      "Fibrous tissue between the ends of the bones",
+      "A pad of fibrocartilage between the ends of bones"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 6,
+      "question": 12
+    }
+  },
+  {
+    "id": 377,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "What is the function of areolar tissue?",
+    "options": [
+      "Protection and elasticity",
+      "To reduce heat loss",
+      "To connect and support",
+      "To provide attachment"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 1
+    }
+  },
+  {
+    "id": 378,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "The study of cells and tissue is called:",
+    "options": [
+      "Histology",
+      "Physiology",
+      "Homeostasis",
+      "Meiosis"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 2
+    }
+  },
+  {
+    "id": 379,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "What part of the cell stores and transports protein out of the cell?",
+    "options": [
+      "Ribosomes",
+      "Mitochondria",
+      "Golgi apparatus",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 3
+    }
+  },
+  {
+    "id": 380,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "Which of the following is a function of the nucleus?",
+    "options": [
+      "To secrete waste materials and transport them out of the cell membrane",
+      "To control the cell’s functions",
+      "To form the circulation of a cell",
+      "Cell reproduction"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 4
+    }
+  },
+  {
+    "id": 381,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "Where are goblet cells found?",
+    "options": [
+      "Columnar epithelium",
+      "Squamous epithelium",
+      "Compound epithelium",
+      "Cuboidal epithelium"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 5
+    }
+  },
+  {
+    "id": 382,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "Metabolism describes:",
+    "options": [
+      "The physiological processes of the cell",
+      "The physiological processes of the body",
+      "The physiological processes of the tissues",
+      "The physiological processes of the body and cells"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 6
+    }
+  },
+  {
+    "id": 383,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "When does the inner root sheath stop growing?",
+    "options": [
+      "When it is level with the dermal papilla",
+      "When it is level with the sebaceous gland",
+      "When it is level with the matrix",
+      "When it is level with the outer root sheath"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 7
+    }
+  },
+  {
+    "id": 384,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "The top layer of the epidermis is known as:",
+    "options": [
+      "Stratum lucidum",
+      "Stratum corneum",
+      "Stratum spinosum",
+      "Stratum germinativum"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 8
+    }
+  },
+  {
+    "id": 385,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "How would you recognize paronychia?",
+    "options": [
+      "Swollen, inflamed red skin around the nail; pus may be present",
+      "Small patches of red skin at the base of the nail with silvery scales",
+      "Large areas of white or yellow patches on the nail",
+      "Grooves in the nail plate running from the base of the nail to the free edge"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 9
+    }
+  },
+  {
+    "id": 386,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "Hyperaemia can be defined as:",
+    "options": [
+      "A reduction in the blood’s ability to carry oxygen",
+      "An increase of blood flow in the body causing the skin to become hot and flush",
+      "When the body becomes cold, body hair stands on end, raising the body temperature",
+      "When sweat and sebum form a protective barrier on the skin"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 10
+    }
+  },
+  {
+    "id": 387,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "Liver spots are also known as:",
+    "options": [
+      "Vitiligo",
+      "Lentigo",
+      "Ephelides",
+      "Naevae"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 11
+    }
+  },
+  {
+    "id": 388,
+    "category": "Anatomy & Physiology · Mock Paper 7",
+    "question": "Superficial describes:",
+    "options": [
+      "Nearer to the midline of the body",
+      "The outer surface of the body",
+      "Nearer to the surface",
+      "Towards the higher part"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 7,
+      "question": 12
+    }
+  },
+  {
+    "id": 389,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "Which type of tissue protects and supports?",
+    "options": [
+      "Connective",
+      "Muscular",
+      "Nervous",
+      "Epithelium"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 1
+    }
+  },
+  {
+    "id": 390,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "Anabolism describes:",
+    "options": [
+      "The minimum energy required to keep the body going",
+      "The process of engulfing foreign particles",
+      "The process of building up complex substances from simple molecules",
+      "The process of storing energy"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 2
+    }
+  },
+  {
+    "id": 391,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "At the anaphase of mitosis:",
+    "options": [
+      "The centrioles separate and form spindle fibres",
+      "Identical pairs of chromosomes move to one end of the cell and the other pairs move to the opposite end",
+      "Centrosome divides into 2 centrioles",
+      "Cell is resting"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 3
+    }
+  },
+  {
+    "id": 392,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "What is the function of ribosomes?",
+    "options": [
+      "To supply the cell with energy",
+      "To allow movement of substances throughout the cell",
+      "To produce protein",
+      "To control the cell"
+    ],
+    "answer": 2,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 4
+    }
+  },
+  {
+    "id": 393,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "What is the function of white fibrous tissue?",
+    "options": [
+      "Insulatory",
+      "Stretching",
+      "Supports organs",
+      "Protecting and supporting surrounding structures"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 5
+    }
+  },
+  {
+    "id": 394,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "Which layer of the hair contains melanin?",
+    "options": [
+      "Cuticle",
+      "Medulla",
+      "Velus",
+      "Cortex"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 6
+    }
+  },
+  {
+    "id": 395,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "Tinea pedis is commonly referred to as:",
+    "options": [
+      "Ringworm",
+      "Athlete’s foot",
+      "Cold sore",
+      "Shingles"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 7
+    }
+  },
+  {
+    "id": 396,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "Which one of the following nail diseases describes the thickening of the nail plate?",
+    "options": [
+      "Onychocryptosis",
+      "Onychauxis",
+      "Pterygium",
+      "Onychophagy"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 8
+    }
+  },
+  {
+    "id": 397,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "When the skin becomes too warm it automatically cools itself down. What is this process called?",
+    "options": [
+      "Vasodilation",
+      "Heat regulation",
+      "Vasoconstriction",
+      "Absorption"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 9
+    }
+  },
+  {
+    "id": 398,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "The clear layer of the epidermis is:",
+    "options": [
+      "Stratum germinativum",
+      "Stratum lucidum",
+      "Stratum spinosum",
+      "Stratum corneum"
+    ],
+    "answer": 1,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 10
+    }
+  },
+  {
+    "id": 399,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "The anatomical term that describes being further from the surface is:",
+    "options": [
+      "Medial",
+      "Superficial",
+      "Proximal",
+      "Deep"
+    ],
+    "answer": 3,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 11
+    }
+  },
+  {
+    "id": 400,
+    "category": "Anatomy & Physiology · Mock Paper 8",
+    "question": "What are cartilage-forming cells called?",
+    "options": [
+      "Chondrocytes",
+      "Osteoclasts",
+      "Erythrocytes",
+      "Thrombocytes"
+    ],
+    "answer": 0,
+    "source": {
+      "file": "Mock Exam Paper (2) (1).pdf",
+      "paper": 8,
+      "question": 12
+    }
   }
 ]
